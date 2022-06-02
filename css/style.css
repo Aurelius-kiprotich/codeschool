@@ -194,8 +194,9 @@ nav a {
      justify-content: space-between;
      font-size: 20px;
  }
- #footer p {
+footer p {
      font-size: 20px;
+     color: #5271ff;
  }
 
 #home-row-5 {
